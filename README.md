@@ -1,5 +1,5 @@
 # Purpose of the project
-This project uses Linear reggression where it aims to look into different variables to observe their relationship, and plot a multiple linear regression based on several variables of individuals such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium. Therefore, the expense is used as the response variable.
+This project uses Linear regression where it aims to look into different variables to observe their relationship, and plot a multiple linear regression based on several variables of individuals such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium. Therefore, the expense is used as the response variable.
 # Dataset
 Data obtained from: https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction/data
 
